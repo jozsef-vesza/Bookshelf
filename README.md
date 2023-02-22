@@ -1,7 +1,6 @@
 # Bookshelf
-Demo of enum-based networking approach
 
-This is a small example app to demo a few techniques.
+This is a small example app to demo a the techniques below.
 
 ## Struct-based dependencies 
 Inspired by Pointfree's course on [Designing Dependencies](https://www.pointfree.co/collections/dependencies/designing-dependencies) I've decided to move away from a protocol-oriented approach for dependencies, and exposed a simple struct instead.
